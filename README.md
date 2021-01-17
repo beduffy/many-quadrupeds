@@ -10,3 +10,5 @@
 - SpotMicro https://spotmicroai.readthedocs.io/en/latest/
 - open-quadruped https://github.com/adham-elarabawy/open-quadruped
 - Boston Dynamics spot and bigdog and LittleDog
+- Ghost Robotics
+- Martin Triendl's quadruped https://www.youtube.com/watch?v=bnEtJSkUFDk&ab_channel=MartinTriendl
