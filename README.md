@@ -15,3 +15,6 @@
 - kagan_industries https://www.instagram.com/p/CJoxuj6FYW_/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1]
 - Undergraduate Final Year Project Legged Robot https://www.youtube.com/watch?v=xH8DlStdA34&ab_channel=JasonSwee
 - https://www.instagram.com/p/CJhiIctn3Un/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1
+- Josh Pieper https://www.youtube.com/watch?v=ePdGshbKR-Q&ab_channel=JoshPieper
+- https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
+- https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
