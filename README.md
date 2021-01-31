@@ -18,3 +18,4 @@
 - Josh Pieper https://www.youtube.com/watch?v=ePdGshbKR-Q&ab_channel=JoshPieper
 - https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
 - https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
+- LIT Dynamics https://www.youtube.com/watch?v=JmccFK-pA9Q&ab_channel=LITDynamics
