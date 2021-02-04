@@ -19,3 +19,8 @@
 - https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
 - https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
 - LIT Dynamics https://www.youtube.com/watch?v=JmccFK-pA9Q&ab_channel=LITDynamics
+- Biped Jackdaw https://www.youtube.com/watch?v=Ugg7kOyQjKM&ab_channel=BipedJackdaw
+- Lethic Z https://www.youtube.com/watch?v=tVx9pJURzYE&ab_channel=RIMMS-NUST
+- https://www.youtube.com/watch?v=53eaFwqbSOk&ab_channel=%EC%9D%B4%EC%A7%80%ED%99%98&t=0s
+- https://www.youtube.com/channel/UCgQoVBs3-UAw_EFRveWFJMw
+- https://www.youtube.com/watch?v=ABWEnGEHsqo&ab_channel=KWang_12&t=2s
