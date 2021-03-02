@@ -27,3 +27,6 @@
 - https://www.youtube.com/watch?v=95QFbXK_3GQ&ab_channel=VanessaWei%C3%9F
 - https://www.youtube.com/channel/UCajFUnfnl-76YDSp5gZsCrg
 - https://www.youtube.com/watch?v=nxRnOm7XuN0&ab_channel=NipunDhananjaya
+- https://www.youtube.com/channel/UCeN1JVt5JxJmrkORexzIDEA
+- https://www.youtube.com/watch?v=oyKwpNno4gI&feature=youtu.be&ab_channel=MPCRLabs
+- https://www.youtube.com/watch?v=lMpECtYVr-E&ab_channel=Pawe%C5%82%C5%BBenta%C5%82a
