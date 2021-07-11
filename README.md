@@ -11,6 +11,7 @@
 - open-quadruped https://github.com/adham-elarabawy/open-quadruped
 - Boston Dynamics spot and bigdog and LittleDog
 - Ghost Robotics
+- MiniPupper https://hackaday.io/project/180171-mini-pupper-quadruped
 - Martin Triendl's quadruped https://www.youtube.com/watch?v=bnEtJSkUFDk&ab_channel=MartinTriendl
 - kagan_industries https://www.instagram.com/p/CJoxuj6FYW_/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1]
 - Undergraduate Final Year Project Legged Robot https://www.youtube.com/watch?v=xH8DlStdA34&ab_channel=JasonSwee
@@ -30,3 +31,4 @@
 - https://www.youtube.com/channel/UCeN1JVt5JxJmrkORexzIDEA
 - https://www.youtube.com/watch?v=oyKwpNno4gI&feature=youtu.be&ab_channel=MPCRLabs
 - https://www.youtube.com/watch?v=lMpECtYVr-E&ab_channel=Pawe%C5%82%C5%BBenta%C5%82a
+- https://www.youtube.com/watch?v=PMRhFD8ek_E&ab_channel=fuweikang
