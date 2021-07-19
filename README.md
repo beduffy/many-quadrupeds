@@ -1,34 +1,35 @@
-# All quadrupeds
+# All quadrupeds (or at least the ones I have put here)
 
 - Stanford Pupper https://stanfordstudentrobotics.org/pupper and https://github.com/stanfordroboticsclub/StanfordQuadruped
-- Anymal
-- Stoch
+- Anymal https://twitter.com/anybotics
+- Stoch https://arxiv.org/abs/1901.00697
 - Freenove robot dog kit
 - OpenCat Nybble and Bittle from Petoi https://www.petoi.com/
-- MIT Mini Cheetah
+- MIT Mini Cheetah https://www.youtube.com/watch?v=G6fMV1UPzkg
 - Cheetah 2 and 3
 - SpotMicro https://spotmicroai.readthedocs.io/en/latest/
 - open-quadruped https://github.com/adham-elarabawy/open-quadruped
 - Boston Dynamics spot and bigdog and LittleDog
-- Ghost Robotics
+- Ghost Robotics https://www.ghostrobotics.io/
 - MiniPupper https://hackaday.io/project/180171-mini-pupper-quadruped
 - Martin Triendl's quadruped https://www.youtube.com/watch?v=bnEtJSkUFDk&ab_channel=MartinTriendl
 - kagan_industries https://www.instagram.com/p/CJoxuj6FYW_/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1]
 - Undergraduate Final Year Project Legged Robot https://www.youtube.com/watch?v=xH8DlStdA34&ab_channel=JasonSwee
 - https://www.instagram.com/p/CJhiIctn3Un/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1
 - Josh Pieper https://www.youtube.com/watch?v=ePdGshbKR-Q&ab_channel=JoshPieper
-- https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
-- https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
+- Kangal https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
+- Limenitis Reducta https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
 - LIT Dynamics https://www.youtube.com/watch?v=JmccFK-pA9Q&ab_channel=LITDynamics
 - Biped Jackdaw https://www.youtube.com/watch?v=Ugg7kOyQjKM&ab_channel=BipedJackdaw
 - Lethic Z https://www.youtube.com/watch?v=tVx9pJURzYE&ab_channel=RIMMS-NUST
-- https://www.youtube.com/watch?v=53eaFwqbSOk&ab_channel=%EC%9D%B4%EC%A7%80%ED%99%98&t=0s
-- https://www.youtube.com/channel/UCgQoVBs3-UAw_EFRveWFJMw
-- https://www.youtube.com/watch?v=ABWEnGEHsqo&ab_channel=KWang_12&t=2s
-- https://www.youtube.com/watch?v=95QFbXK_3GQ&ab_channel=VanessaWei%C3%9F
-- https://www.youtube.com/channel/UCajFUnfnl-76YDSp5gZsCrg
-- https://www.youtube.com/watch?v=nxRnOm7XuN0&ab_channel=NipunDhananjaya
-- https://www.youtube.com/channel/UCeN1JVt5JxJmrkORexzIDEA
-- https://www.youtube.com/watch?v=oyKwpNno4gI&feature=youtu.be&ab_channel=MPCRLabs
-- https://www.youtube.com/watch?v=lMpECtYVr-E&ab_channel=Pawe%C5%82%C5%BBenta%C5%82a
-- https://www.youtube.com/watch?v=PMRhFD8ek_E&ab_channel=fuweikang
+- https://www.youtube.com/watch?v=53eaFwqbSOk&ab_channel=%EC%9D%B4%EC%A7%80%ED%99%98&
+- Mojo https://www.youtube.com/channel/UCgQoVBs3-UAw_EFRveWFJMw
+- KWang_12 https://www.youtube.com/watch?v=ABWEnGEHsqo&ab_channel=KWang_12
+- Vanessa Weiss https://www.youtube.com/watch?v=95QFbXK_3GQ&ab_channel=VanessaWei%C3%9F
+- Erik Lely https://www.youtube.com/channel/UCajFUnfnl-76YDSp5gZsCrg
+- Blackie https://www.youtube.com/watch?v=nxRnOm7XuN0&ab_channel=NipunDhananjaya
+- Gleb Devyatkin https://www.youtube.com/channel/UCeN1JVt5JxJmrkORexzIDEA
+- MPCR Labs https://www.youtube.com/watch?v=oyKwpNno4gI&feature=youtu.be&ab_channel=MPCRLabs
+- Paweł Żentała https://www.youtube.com/watch?v=lMpECtYVr-E&ab_channel=Pawe%C5%82%C5%BBenta%C5%82a
+- fuwei kang https://www.youtube.com/watch?v=PMRhFD8ek_E&ab_channel=fuweikang
+- aheadgarage https://www.instagram.com/aheadgarage
