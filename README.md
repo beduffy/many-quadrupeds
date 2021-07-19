@@ -33,3 +33,4 @@
 - Paweł Żentała https://www.youtube.com/watch?v=lMpECtYVr-E&ab_channel=Pawe%C5%82%C5%BBenta%C5%82a
 - fuwei kang https://www.youtube.com/watch?v=PMRhFD8ek_E&ab_channel=fuweikang
 - aheadgarage https://www.instagram.com/aheadgarage
+- Damian Lickindorf https://www.youtube.com/channel/UCUuOHh9autp2ztN5tu9NiOg
