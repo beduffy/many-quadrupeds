@@ -1,4 +1,5 @@
-# All quadrupeds (or at least the ones I have put here, feel free to suggest more through issues/PRs or email me)
+# All quadrupeds 
+(or at least the ones I have put here, feel free to suggest more through issues/PRs or email me)
 
 - Stanford Pupper https://stanfordstudentrobotics.org/pupper and https://github.com/stanfordroboticsclub/StanfordQuadruped
 - Anymal https://twitter.com/anybotics
