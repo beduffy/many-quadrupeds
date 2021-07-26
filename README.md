@@ -6,6 +6,7 @@
 - Stoch https://arxiv.org/abs/1901.00697
 - Freenove robot dog kit
 - OpenCat Nybble and Bittle from Petoi https://www.petoi.com/
+- Arduino Powered Micro Quadruped https://hackaday.com/2021/07/26/little-quadruped-uses-many-servos/
 - MIT Mini Cheetah https://www.youtube.com/watch?v=G6fMV1UPzkg
 - Cheetah 2 and 3
 - SpotMicro https://spotmicroai.readthedocs.io/en/latest/
