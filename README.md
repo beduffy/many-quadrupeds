@@ -9,16 +9,24 @@
 - Arduino Powered Micro Quadruped https://hackaday.com/2021/07/26/little-quadruped-uses-many-servos/
 - MIT Mini Cheetah https://www.youtube.com/watch?v=G6fMV1UPzkg
 - Cheetah 2 and 3
+- Graybotics Grayhound https://graybotics.com/
 - SpotMicro https://spotmicroai.readthedocs.io/en/latest/
 - open-quadruped https://github.com/adham-elarabawy/open-quadruped
 - Boston Dynamics spot and bigdog and LittleDog
 - Ghost Robotics https://www.ghostrobotics.io/
+- Open Dynamic Robot Initiative https://open-dynamic-robot-initiative.github.io/
+- HyQReal by Dynamic Legged Systems lab https://www.youtube.com/watch?v=pLsNs1ZS_TI
 - MiniPupper https://hackaday.io/project/180171-mini-pupper-quadruped and https://github.com/mangdangroboticsclub/QuadrupedRobot
+- Robin Fröjd k3lso https://twitter.com/r_frojd
+- World's smallest dog robot - ROBOTALLIC https://www.youtube.com/watch?v=4931kQ8C8-w
+- Wolfie by Piotrek Wasilewski https://www.youtube.com/channel/UCLkRs7ln5_dhtIesqWRq0WA
 - Martin Triendl's quadruped https://www.youtube.com/watch?v=bnEtJSkUFDk&ab_channel=MartinTriendl
 - kagan_industries https://www.instagram.com/p/CJoxuj6FYW_/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1]
 - Undergraduate Final Year Project Legged Robot https://www.youtube.com/watch?v=xH8DlStdA34&ab_channel=JasonSwee
 - https://www.instagram.com/p/CJhiIctn3Un/?target_user_id=33496255864&utm_source=instagram&utm_medium=email&utm_campaign=digest_email&click_source=media&__bp=1
 - Josh Pieper mjbots quad A1 robot https://www.youtube.com/watch?v=ePdGshbKR-Q&ab_channel=JoshPieper and https://github.com/mjbots/quad
+- https://twitter.com/devemin/status/1421436426277638149
+- https://twitter.com/EL2031watson/status/1336505193588871169
 - Kangal https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
 - Limenitis Reducta https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
 - LIT Dynamics https://www.youtube.com/watch?v=JmccFK-pA9Q&ab_channel=LITDynamics
