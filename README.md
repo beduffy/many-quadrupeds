@@ -5,6 +5,8 @@
 - Anymal https://twitter.com/anybotics
 - Stoch https://arxiv.org/abs/1901.00697
 - Freenove robot dog kit
+- Unitree's quadrupeds: A1, Laikago, Go1, AlienGo, BenBen https://www.unitree.com/products/a1
+- Jueying and Jueying Mini from Deep Robotics https://www.youtube.com/watch?v=Mhf47KHe3ZM
 - OpenCat Nybble and Bittle from Petoi https://www.petoi.com/
 - Arduino Powered Micro Quadruped https://hackaday.com/2021/07/26/little-quadruped-uses-many-servos/
 - MIT Mini Cheetah https://www.youtube.com/watch?v=G6fMV1UPzkg
