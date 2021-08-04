@@ -15,6 +15,7 @@
 - SpotMicro https://spotmicroai.readthedocs.io/en/latest/
 - open-quadruped https://github.com/adham-elarabawy/open-quadruped
 - Boston Dynamics spot and bigdog and LittleDog
+- Added XGO-Mini https://www.kickstarter.com/projects/xgorobot/xgo-mini-an-advanced-quadruped-robot-with-ai-modules
 - Ghost Robotics https://www.ghostrobotics.io/
 - Open Dynamic Robot Initiative https://open-dynamic-robot-initiative.github.io/
 - HyQReal by Dynamic Legged Systems lab https://www.youtube.com/watch?v=pLsNs1ZS_TI
