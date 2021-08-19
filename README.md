@@ -21,6 +21,7 @@
 - HyQReal by Dynamic Legged Systems lab https://www.youtube.com/watch?v=pLsNs1ZS_TI
 - MiniPupper https://hackaday.io/project/180171-mini-pupper-quadruped and https://github.com/mangdangroboticsclub/QuadrupedRobot
 - Robin Fröjd k3lso https://twitter.com/r_frojd
+- CyberDog https://www.youtube.com/watch?v=UwAQ8Iv0X7c
 - World's smallest dog robot - ROBOTALLIC https://www.youtube.com/watch?v=4931kQ8C8-w
 - Wolfie by Piotrek Wasilewski https://www.youtube.com/channel/UCLkRs7ln5_dhtIesqWRq0WA
 - Martin Triendl's quadruped https://www.youtube.com/watch?v=bnEtJSkUFDk&ab_channel=MartinTriendl
