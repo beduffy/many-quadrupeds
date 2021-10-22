@@ -2,6 +2,7 @@
 (or at least the ones I have put here, feel free to suggest more through issues/PRs or email me)
 
 - Stanford Pupper https://stanfordstudentrobotics.org/pupper and https://github.com/stanfordroboticsclub/StanfordQuadruped
+- Pupper V2 https://www.youtube.com/watch?v=_Sh4kRtmAog
 - Anymal https://twitter.com/anybotics
 - Stoch https://arxiv.org/abs/1901.00697
 - Freenove robot dog kit
@@ -11,6 +12,7 @@
 - Arduino Powered Micro Quadruped https://hackaday.com/2021/07/26/little-quadruped-uses-many-servos/
 - MIT Mini Cheetah https://www.youtube.com/watch?v=G6fMV1UPzkg
 - Cheetah 2 and 3
+- TinyMovr https://www.youtube.com/watch?v=2k5lOUGenkE
 - Graybotics Grayhound https://graybotics.com/
 - SpotMicro https://spotmicroai.readthedocs.io/en/latest/
 - open-quadruped https://github.com/adham-elarabawy/open-quadruped
