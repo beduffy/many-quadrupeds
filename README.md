@@ -33,6 +33,7 @@
 - Josh Pieper mjbots quad A1 robot https://www.youtube.com/watch?v=ePdGshbKR-Q&ab_channel=JoshPieper and https://github.com/mjbots/quad
 - https://twitter.com/devemin/status/1421436426277638149
 - https://twitter.com/EL2031watson/status/1336505193588871169
+- https://github.com/JoshPattman/spotpuppy and https://blizzardfishstudios.myportfolio.com/four-legged-walking
 - Kangal https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
 - Limenitis Reducta https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
 - LIT Dynamics https://www.youtube.com/watch?v=JmccFK-pA9Q&ab_channel=LITDynamics
