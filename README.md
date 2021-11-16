@@ -1,4 +1,4 @@
-# All quadrupeds 
+# Many quadrupeds 
 (or at least the ones I have put here, feel free to suggest more through issues/PRs or email me)
 
 - Stanford Pupper https://stanfordstudentrobotics.org/pupper and https://github.com/stanfordroboticsclub/StanfordQuadruped
@@ -22,6 +22,7 @@
 - Open Dynamic Robot Initiative https://open-dynamic-robot-initiative.github.io/
 - HyQReal by Dynamic Legged Systems lab https://www.youtube.com/watch?v=pLsNs1ZS_TI
 - MiniPupper https://hackaday.io/project/180171-mini-pupper-quadruped and https://github.com/mangdangroboticsclub/QuadrupedRobot
+- https://twitter.com/pacos_258/status/1460209246499262470
 - Robin Fröjd k3lso https://twitter.com/r_frojd
 - CyberDog https://www.youtube.com/watch?v=UwAQ8Iv0X7c
 - World's smallest dog robot - ROBOTALLIC https://www.youtube.com/watch?v=4931kQ8C8-w
@@ -33,7 +34,7 @@
 - Josh Pieper mjbots quad A1 robot https://www.youtube.com/watch?v=ePdGshbKR-Q&ab_channel=JoshPieper and https://github.com/mjbots/quad
 - https://twitter.com/devemin/status/1421436426277638149
 - https://twitter.com/EL2031watson/status/1336505193588871169
-- https://github.com/JoshPattman/spotpuppy and https://blizzardfishstudios.myportfolio.com/four-legged-walking
+- https://github.com/JoshPattman/spotpuppy, https://www.instagram.com/spotpuppyrobot/ and https://blizzardfishstudios.myportfolio.com/four-legged-walking
 - Kangal https://www.youtube.com/watch?v=ztCE2fqSIxo&ab_channel=BarisAlp
 - Limenitis Reducta https://www.youtube.com/channel/UCfY4QudfnPH8X3gaX6DbpPw/videos
 - LIT Dynamics https://www.youtube.com/watch?v=JmccFK-pA9Q&ab_channel=LITDynamics
