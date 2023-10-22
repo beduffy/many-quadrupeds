@@ -55,3 +55,4 @@
 - aheadgarage https://www.instagram.com/aheadgarage
 - Damian Lickindorf (Stanley) https://www.youtube.com/channel/UCUuOHh9autp2ztN5tu9NiOg
 - Ylo2 https://twitter.com/TlseRobotRace/status/1654576542259740676
+- quadruped_bai_tiny https://github.com/psrobotics/quadruped_bai_tiny
