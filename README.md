@@ -56,3 +56,4 @@
 - Damian Lickindorf (Stanley) https://www.youtube.com/channel/UCUuOHh9autp2ztN5tu9NiOg
 - Ylo2 https://twitter.com/TlseRobotRace/status/1654576542259740676
 - quadruped_bai_tiny https://github.com/psrobotics/quadruped_bai_tiny
+- Quadruped v3 Alex Hattori https://www.youtube.com/watch?v=OWvWvxGvhzc&ab_channel=AlexHattori
