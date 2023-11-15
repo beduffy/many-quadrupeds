@@ -58,3 +58,4 @@
 - quadruped_bai_tiny https://github.com/psrobotics/quadruped_bai_tiny
 - Quadruped v3 Alex Hattori https://www.youtube.com/watch?v=OWvWvxGvhzc&ab_channel=AlexHattori
 - The Dingo https://www.youtube.com/watch?v=8KntOIgzUjY&ab_channel=NathanFerguson
+- LimX Dynamics Launches First Wheeled Quadruped Robot W1 https://www.youtube.com/watch?v=tEYLccxFuns&ab_channel=LimXDynamics
